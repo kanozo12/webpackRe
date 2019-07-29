@@ -1,0 +1,16 @@
+h1 {
+    color:red;
+    background-color: yellow;
+}
+
+#back1 {
+    width:200px;
+    height:200px;
+    background-image: url(img/small.jpg);
+}
+
+#back2 {
+    width:200px;
+    height:200px;
+    background-image: url(img/small2.gif);
+}
